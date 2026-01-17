@@ -1,7 +1,7 @@
 # Flask-SQLAlchemy Validations Lab
 
 # Screenshot
-## Test Results
+# Test Results
 
 ![Pytest Passing](pytestresults.png)
 
